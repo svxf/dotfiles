@@ -1,0 +1,29 @@
+general {
+    gaps_in = 3
+    gaps_out = 8
+    border_size = 2
+    col.active_border = rgba(453936ff) rgba(453532ff) 45deg
+    col.inactive_border = rgba(302c2ccc) rgba(302a2acc) 45deg
+    layout = dwindle
+    resize_on_border = true
+}
+
+decoration {
+    rounding = 0
+
+    blur {
+        enabled = yes
+        size = 4
+        passes = 4
+        new_optimizations = on
+        ignore_opacity = on
+        xray = false
+        brightness = 1.1
+    }
+
+    shadow {
+        enabled = false
+    }
+}
+
+layerrule = blur,waybar
