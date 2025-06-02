@@ -28,15 +28,12 @@
     - [Oh My Zsh](https://ohmyz.sh/#install)
 
 # Hyprland 🍙<a name = "hypr"></a>:
-8 themes!
 
 <div align="center">
 
 ![image](https://github.com/user-attachments/assets/a7e4520e-3f41-417c-bb6f-6aaa0d7b1c4a)
-![image](https://github.com/user-attachments/assets/10cbbeb6-1057-4d57-8dbb-525295a3644e)
 ![image](https://github.com/user-attachments/assets/49c3c044-7b60-43df-9075-b4fb320cbee9)
 ![image](https://github.com/user-attachments/assets/4375a9dc-0711-4c06-aa3a-b2eda296332d)
-
 
 </div>
 
