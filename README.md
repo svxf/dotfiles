@@ -72,11 +72,3 @@ then run this command to see the newly installed fonts.
 ```
 fc-cache -fv
 ```
-
-## Copy Files 💾
-
-```
-git clone https://github.com/svxf/dotfiles
-cd dotfiles
-cp -r ./configs/* ~/.config/
-```
